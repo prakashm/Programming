@@ -1,1 +1,1 @@
-# Programming
+# Sample code snippets
